@@ -5,6 +5,7 @@
 * Barbell Bench Press
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/BBBenchPress.gif)
 * Decline Barbell bench Press
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/BBDeclineBenchPress.gif)
 * Incline Barbell Bench Press
 * Dumbbell Bench Press
 * Decline Dumbbell Bench Press
@@ -46,7 +47,6 @@
 * Machine Curl
 
 ### 
-
 * Close-Grip Bench Press
 * Barbell Lying Triceps Extension
 * Barbell Overhead Extensions
