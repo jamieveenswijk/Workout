@@ -1,6 +1,6 @@
 # List Of Basic Exercises Devided By Muscle Groups
 
-### Chest
+## Chest
 
 * #### Barbell Bench Press
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Chest/BBBenchPress.gif)
@@ -19,7 +19,7 @@
 * #### Dumbbell Flyes
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Chest/DBFly.gif)
 
-### Shoulders
+## Shoulders
 
 * #### Barbell Shoulder Press
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Shoulders/BBShoulderPress.gif)
@@ -34,7 +34,7 @@
 * #### Dumbbell Upright Row
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Shoulders/DBUprightRow.gif)
 
-### Trapezius
+## Trapezius
 
 * #### Barbell Shrug
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Trapezius/BBShrug.gif)
@@ -43,7 +43,7 @@
 * #### Dumbbell Shrug
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Trapezius/DBShrug.gif)
 
-### Back
+## Back
 
 * #### Barbell Dead Lifts
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Back/BBDeadlift.gif)
@@ -60,7 +60,7 @@
 * #### Dumbbell Rows
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Back/DBBentoverRow.gif)
 
-### Biceps
+## Biceps
 
 * #### Barbell Curls
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Biceps/BBCurl.gif)
@@ -73,7 +73,7 @@
 * #### Machine Curl
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Biceps/LVCurl.gif)
 
-### Triceps
+## Triceps
 
 * #### Close-Grip Bench Press 
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Triceps/BBCloseGripBenchPress.gif)
@@ -88,7 +88,7 @@
 * #### Tricep Dips
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Triceps/WtTricepsDip.gif)
 
-### Forearms
+## Forearms
 
 * #### Hammer Curls
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Forearms/DBHammerCurl.gif)
@@ -97,7 +97,7 @@
 * #### Wrist Curl
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Forearms/BBWristCurl.gif)
 
-### Aaaaaabs (hmmmm)
+## Aaaaaabs (hmmmm)
 
 * #### Crunch
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Aaaabs/WTCrunch.gif)
@@ -108,7 +108,7 @@
 * #### Weighted Hanging Leg-Hip Raise
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Aaaabs/WTHangingLegHipRaise.gif)
 
-### Legs (Never skip leg day or you'll look like Dan Bilzerian)
+## Legs (Never skip leg day or you'll look like Dan Bilzerian)
 
 * #### Barbell Back Squat
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Legs/BBSquatHigh.gif)
@@ -133,7 +133,7 @@
 * #### Standing Leg Curl
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Legs/LVStandingLegCurl.gif)
 
-### Calfs
+## Calfs
 
 
 * #### Barbell Calf Raises
@@ -145,7 +145,7 @@
 * #### Seated Calf Raises
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Calfs/LVSeatedCalfRaise.gif)
 
-### Olympic Lifts
+## Olympic Lifts
 
 * #### Clean and Jerk
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Olympic%20Lifts/CleanAndJerk.gif)
