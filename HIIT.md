@@ -17,6 +17,10 @@
 |       | Forearm Plank                          | 20 seconds |
 |       | Rest 1 minute                          | 60 seconds |
 |       | ^ Repeat x2                            |            |
+|       | Extra Variation                        |            |
+|-------| ---------------------------------------|------------|
+|       | The Mummy                              | 60 seconds |
+
 
 ### 20 Minute Gym HIIT Training Example #1
 
