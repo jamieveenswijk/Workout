@@ -3,21 +3,21 @@
 ### Chest
 
 * #### Barbell Bench Press
-* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/BBBenchPress.gif)
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Chest/BBBenchPress.gif)
 * #### Decline Barbell bench Press
-* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/BBDeclineBenchPress.gif)
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Chest/BBDeclineBenchPress.gif)
 * #### Incline Barbell Bench Press
-* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/BBInclineBenchPress.gif)
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Chest/BBInclineBenchPress.gif)
 * #### Dumbbell Bench Press
-* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/DBBenchPress.gif)
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Chest/DBBenchPress.gif)
 * #### Decline Dumbbell Bench Press
-* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/DBDeclineBenchPress.gif)
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Chest/DBDeclineBenchPress.gif)
 * #### Incline Dumbbell Bench Press
-* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/DBInclineBenchPress.gif)
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Chest/DBInclineBenchPress.gif)
 * #### Dumbbell Pullovers
-* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/DBPullover.gif)
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Chest/DBPullover.gif)
 * #### Dumbbell Flyes
-* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/DBFly.gif)
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Chest/DBFly.gif)
 
 ### Shoulders
 
