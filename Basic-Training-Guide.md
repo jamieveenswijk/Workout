@@ -33,6 +33,8 @@
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Shoulders/DBLateralRaise.gif)
 * #### Dumbbell Upright Row
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Shoulders/DBUprightRow.gif)
+* #### Arnold Shoulder Press
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Shoulders/Arnold%20Press.gif)
 
 ## Trapezius
 
