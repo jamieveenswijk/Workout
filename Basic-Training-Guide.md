@@ -109,3 +109,4 @@
 ##### About
 
 Original Creator: Big T at [Dutchbodybuilding](https://forum.bodybuilding.nl/)
+Translation: Jamie Veenswijk
