@@ -89,6 +89,8 @@
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Triceps/WTBenchDip.gif)
 * #### Tricep Dips
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Triceps/WtTricepsDip.gif)
+* #### Skullcrushers
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/Triceps/BBLyingTricepsExtensionSC.gif)
 
 ## Forearms
 
