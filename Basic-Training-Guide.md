@@ -17,7 +17,7 @@
 * Dumbbell Pullovers
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/DBPullover.gif)
 * Dumbbell Flyes
-* ! [alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/DBFly.gif)
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/DBFly.gif)
 
 ### Shoulders
 
