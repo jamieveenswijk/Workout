@@ -1,4 +1,4 @@
-# List of basic exercises devided on muscle groups
+# List Of Basic Exercises Devided By Muscle Groups
 
 ### Chest
 
@@ -166,5 +166,5 @@
 
 ##### About
 
-Original Creator: Big T at [Dutchbodybuilding](https://forum.bodybuilding.nl/)
-Translation: Jamie Veenswijk
+* Original Creator: Big T at [Dutchbodybuilding](https://forum.bodybuilding.nl/)
+* Translation: Jamie Veenswijk
