@@ -105,3 +105,7 @@
 * Hang Cleans
 * Hang Jump Shrug
 * Cleans
+
+##### About
+
+Original Creator: Big T at [Dutchbodybuilding](https://forum.bodybuilding.nl/)
