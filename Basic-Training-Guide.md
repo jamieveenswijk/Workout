@@ -3,7 +3,7 @@
 ### Chest
 
 * Barbell Bench Press
-![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/BBBenchPress.gif)
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/BBBenchPress.gif)
 * Decline Barbell bench Press
 * Incline Barbell Bench Press
 * Dumbbell Bench Press
