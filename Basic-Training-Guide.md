@@ -52,7 +52,7 @@
 * Dumbbell Incline Curl
 * Machine Curl
 
-### 
+### Triceps
 * Close-Grip Bench Press
 * Barbell Lying Triceps Extension
 * Barbell Overhead Extensions
