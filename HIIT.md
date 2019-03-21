@@ -17,3 +17,17 @@
 |       | Forearm Plank                          | 20 seconds |
 |       | Rest 1 minute                          | 60 seconds |
 |       | ^ Repeat x2                            |            |
+
+### 20 Minute Gym HIIT Training Example #1
+
+| Time  | Type                                   | Duration   |
+|------ |:--------------------------------------:|-----------:|
+| 21:30 | Battlerope Double Arm Motion           | 60 seconds |
+|       | Rest 1 minute                          | 60 seconds |
+|       | Mountain Climbers                      | 45 seconds |
+|       | Side Lunges                            | 45 seconds |
+|       | Jump Squats                            | 45 seconds |
+|       | Rest 1 minute                          | 60 seconds |
+|       | Alternating Battlerope Arm Motion      | 60 seconds |
+|       | Rest 1 minute                          | 60 seconds |
+|       | ^ Repeat x2                            |            |
