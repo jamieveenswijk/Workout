@@ -7,11 +7,17 @@
 * Decline Barbell bench Press
 * ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/BBDeclineBenchPress.gif)
 * Incline Barbell Bench Press
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/BBInclineBenchPress.gif)
 * Dumbbell Bench Press
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/DBBenchPress.gif)
 * Decline Dumbbell Bench Press
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/DBDeclineBenchPress.gif)
 * Incline Dumbbell Bench Press
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/DBInclineBenchPress.gif)
 * Dumbbell Pullovers
+* ![alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/DBPullover.gif)
 * Dumbbell Flyes
+* ! [alt text](https://github.com/jamieveenswijk/Workout/blob/master/Images/DBFly.gif)
 
 ### Shoulders
 
