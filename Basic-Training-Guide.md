@@ -1,4 +1,4 @@
-# List Of Basic Exercises Devided By Muscle Groups
+# List Of Basic Exercises divided by muscle groups.
 
 ## Chest
 
