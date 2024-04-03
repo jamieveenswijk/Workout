@@ -18,7 +18,6 @@
 |       | Rest 1 minute                          | 60 seconds |
 |       | ^ Repeat x2                            |            |
 |       | Extra Variation                        |            |
-|-------|:--------------------------------------:|-----------:|
 |       | The Mummy                              | 60 seconds |
 
 
