@@ -1,4 +1,4 @@
-### 24 Minute Living Room HIIT Training Example #1
+### 24 Minute Living Room HIIT Training
 
 | Time  | Type                                   | Duration   |
 |------ |:--------------------------------------:|-----------:|
